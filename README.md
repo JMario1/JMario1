@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jude Omenai, a Flutter dev
+- 👋 Hi, I’m Jude Omenai, a Cloud/Flutter dev
 - 👀 I’m interested in mobile, cloud and backend development
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning rust and asp .net
 - 💞️ I’m looking to collaborate on mobile applications
 - 📫 How to reach me twitter-@jdon_mario
 
