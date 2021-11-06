@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jude Omenai, a Cloud/Flutter dev
-- 👀 I’m interested in mobile, cloud and backend development
+- 👋 Hi, I’m Jude Omenai, a Cloud practitioner and a flutter dev
+- 👀 I’m interested in Cloud/Devops, mobile and backend development
 - 🌱 I’m currently learning rust and asp .net
-- 💞️ I’m looking to collaborate on mobile applications
+- 💞️ I’m looking to collaborate on creating cloud solutiond and mobile applications
 - 📫 How to reach me twitter-@jdon_mario
 
 <!---
