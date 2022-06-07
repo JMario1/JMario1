@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jude Omenai, a software developer.
-- 👀 I’m interested in Cloud/Devops, mobile and backend development
+- 👀 I’m interested in Cloud/Devops, blockchain and backend development
 - 🌱 I’m currently learning rust and asp .net
 - 💞️ I’m looking to collaborate on creating cloud solutions and backend applications
 - 📫 How to reach me twitter-@jdon_mario
